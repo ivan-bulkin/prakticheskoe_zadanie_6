@@ -127,6 +127,7 @@ public class Main {
 
     private static void privetstvie_programmi() {
         System.out.println("\n---=== Практическое задание к уроку № 6===---");
+        System.out.println("             Сделал Иван Булкин");
         System.out.println("Что надо сделать:");
         System.out.println("1. Создать классы Собака и Кот с наследованием от класса Животное.");
         System.out.println("2. Животные могут выполнять действия: бежать, плыть, перепрыгивать препятствие.");
